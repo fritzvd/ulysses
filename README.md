@@ -5,13 +5,14 @@ This is where I track my progress in reading Ulysses by James Joyce.
 ## Cast of Characters
 As Joyce tried to map the story on the epic poem the Oddysey by Homer, I think some of the characters are being represented as parallels. This is my gut feeling so far (I've only read up to the Chapter Calypso): 
 
-name | nickname(s) | Homer's Oddysey 
-Stephen Dedalus | Kinch | Telemachus
-Malachi Mulligan | Buck | Hermes
-Haines | | -
-Mr Deasy | | Nestor
-Leopold Bloom | Poldy | Oddyseus
-Marion Bloom | Molly | Calypso
+| name | nickname(s) | Homer's Oddysey
+|------|-------------|---------|
+|Stephen Dedalus | Kinch | Telemachus
+|Malachi Mulligan | Buck | Hermes
+|Haines | | -
+|Mr Deasy | | Nestor
+|Leopold Bloom | Poldy | Oddyseus
+|Marion Bloom | Molly | Calypso
 
 ## Chapters
 
