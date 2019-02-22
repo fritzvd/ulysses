@@ -17,7 +17,7 @@ As Joyce tried to map the story on the epic poem the Oddysey by Homer, I think s
 ## Chapters
 
 ### Telemachus
-Stephen Dedalus (SD) is rudely woken by his frienemy: Buck Mulligan, loud-mouthed "Userper". SD lives in a fortress tower of some kind.
+Stephen Dedalus (SD) is rudely woken by his frienemy: Buck Mulligan, loud-mouthed "Usurper". SD lives in a fortress tower of some kind.
 
 ### Nestor
 SD is teaching his class, and sort of tongue-in-cheek mocking the "dumb" kid in the classroom. Kids a relieved to leave the class room and SD goes over algebra with one of the children that stays behind.
